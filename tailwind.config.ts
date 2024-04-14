@@ -17,6 +17,9 @@ const config = {
         "2xl": "1400px",
       },
     },
+    backgroundImage: {
+      hero: "url('/images/hero-background.png')",
+    },
     extend: {
       colors: {
         dark: {
